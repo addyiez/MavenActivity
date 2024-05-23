@@ -17,7 +17,6 @@ public class TreeMapDemo {
 		System.out.println(treeMap.headMap("Python", true));
 		System.out.println(treeMap.tailMap("Java", true));
 		System.out.println(treeMap.subMap("Azure",false,"SFDC", true));
-
 	}
 
 }
